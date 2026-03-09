@@ -1,7 +1,7 @@
 # 📊 Financial Planning & Analysis (FP&A) Dashboard - Condominium Management
 
-**Read the full Business Case on Medium:** [(https://medium.com/@guilhermeoyakawalmeida/elevating-financial-visibility-building-an-fp-a-dashboard-for-condominium-management-5736d0c14df3)]
-**Interact with the Live Dashboard:** [(https://app.powerbi.com/view?r=eyJrIjoiYTYwZDc4NzYtMGFjMy00MDhlLWEwY2ItNGNkZDJlNzMwMDM3IiwidCI6ImRlNTM3NmEzLTdhOTEtNGM1NS1hOGQ5LTI0YjhkMTVlNWViMSJ9)]
+**Read the full Business Case on Medium:** [Read the Article](https://medium.com/@guilhermeoyakawalmeida/elevating-financial-visibility-building-an-fp-a-dashboard-for-condominium-management-5736d0c14df3)
+**Interact with the Live Dashboard:** [Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTYwZDc4NzYtMGFjMy00MDhlLWEwY2ItNGNkZDJlNzMwMDM3IiwidCI6ImRlNTM3NmEzLTdhOTEtNGM1NS1hOGQ5LTI0YjhkMTVlNWViMSJ9)
 
 ## 🏢 Business Problem
 Managing a condominium's finances involves balancing predictable revenues with volatile operational expenses (maintenance, payroll, utilities). 
@@ -46,4 +46,4 @@ Focuses on capital allocation. Plots the 2024 actual expenditures against the fo
 
 ---
 **Author:** Guilherme Oyakawa de Almeida  
-**Connect with me on LinkedIn:** [(https://www.linkedin.com/in/guilherme-oyakawa-almeida/)]
+**Connect with me on LinkedIn:** [Guilherme Oyakawa de Almeida](https://www.linkedin.com/in/guilherme-oyakawa-almeida/)
